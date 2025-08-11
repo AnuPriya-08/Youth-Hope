@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Youth-Hope-site/static/css/main.6ce37ab5.css",
+    "main.js": "/Youth-Hope-site/static/js/main.402e77cc.js",
+    "index.html": "/Youth-Hope-site/index.html",
+    "main.6ce37ab5.css.map": "/Youth-Hope-site/static/css/main.6ce37ab5.css.map",
+    "main.402e77cc.js.map": "/Youth-Hope-site/static/js/main.402e77cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ce37ab5.css",
+    "static/js/main.402e77cc.js"
+  ]
+}
