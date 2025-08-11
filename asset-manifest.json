@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AnuPriya-08/Youth-Hope.git/static/css/main.6ce37ab5.css",
-    "main.js": "/AnuPriya-08/Youth-Hope.git/static/js/main.402e77cc.js",
-    "index.html": "/AnuPriya-08/Youth-Hope.git/index.html",
-    "main.6ce37ab5.css.map": "/AnuPriya-08/Youth-Hope.git/static/css/main.6ce37ab5.css.map",
-    "main.402e77cc.js.map": "/AnuPriya-08/Youth-Hope.git/static/js/main.402e77cc.js.map"
+    "main.css": "/Youth-Hope/static/css/main.6ce37ab5.css",
+    "main.js": "/Youth-Hope/static/js/main.402e77cc.js",
+    "index.html": "/Youth-Hope/index.html",
+    "main.6ce37ab5.css.map": "/Youth-Hope/static/css/main.6ce37ab5.css.map",
+    "main.402e77cc.js.map": "/Youth-Hope/static/js/main.402e77cc.js.map"
   },
   "entrypoints": [
     "static/css/main.6ce37ab5.css",
